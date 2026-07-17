@@ -109,15 +109,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sagar10-web&theme=tokyonight&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Activity Graph
 
