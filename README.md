@@ -87,27 +87,8 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar10-web&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar10-web&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar10-web&theme=tokyonight"/>
-
-</p>
-
----
 
 
 
