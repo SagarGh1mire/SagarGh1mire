@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sagar Ghimire
+# Hi , I'm Sagar Ghimire
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Frontend+Developer;C+%7C+C%2B%2B+%7C+C%23+Programmer;Web+Developer;Always+Learning+New+Technologies" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 Computer Science Student
 
@@ -18,14 +18,14 @@
 
 ⚡ Passionate about Programming & Web Development
 
-🌱 Currently Learning
+ Currently Learning
 - C#
 - ASP.NET
 - JavaScript
 - Python
 - Full Stack Development
 
-🚀 Goal
+Goal
 > Become a Software Engineer and build amazing projects.
 
 ---
@@ -108,7 +108,7 @@
 
 ---
 
-# 💭 Quote
+#  Quote
 
 > **"Code. Learn. Build. Repeat."**
 
