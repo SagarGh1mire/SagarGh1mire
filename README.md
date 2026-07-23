@@ -12,11 +12,11 @@
 
 #  About Me
 
-🎓 Computer Science Student
+ Computer Science Student
 
-💻 Frontend Developer
+ Frontend Developer
 
-⚡ Passionate about Programming & Web Development
+ Passionate about Programming & Web Development
 
  Currently Learning
 - C#
@@ -30,7 +30,7 @@ Goal
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -50,7 +50,7 @@ Goal
 
 ---
 
-# 💻 Programming Languages
+#  Programming Languages
 
 | Language | Icon | Language | Icon |
 |----------|------|----------|------|
@@ -62,7 +62,7 @@ Goal
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 | Category | Technologies |
 |------------|----------------|
@@ -92,13 +92,13 @@ Goal
 
 
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar10-web&theme=tokyo-night"/>
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
