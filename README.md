@@ -31,7 +31,6 @@ Goal
 ---
 
 #  Connect With Me
-
 <p align="left">
 
 <a href="https://github.com/sagar10-web">
