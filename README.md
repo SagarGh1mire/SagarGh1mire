@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/sagar10-web">
+  <a href="https://github.com/SagarGh1mire">
     <img src="https://img.shields.io/badge/GitHub-sagar10--web-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
