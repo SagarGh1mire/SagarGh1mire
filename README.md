@@ -1,118 +1,426 @@
 <div align="center">
 
-# Hi , I'm Sagar Ghimire
+# 👋 Hi, I'm **Sagar Ghimire**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Frontend+Developer;C+%7C+C%2B%2B+%7C+C%23+Programmer;Web+Developer;Always+Learning+New+Technologies" />
+### 🧪 QA Engineer | Software Tester | Automation Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=QA+Engineer;Manual+%26+Automation+Testing;Selenium+WebDriver;API+Testing+%7C+Postman;Python+%7C+PyTest;SQL+%7C+Database+Testing;JMeter+%7C+Performance+Testing;Continuous+Learning+%26+Improvement" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sagar10-web&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-#  About Me
+# 👨‍💻 About Me
 
- Computer Science Student
+I'm a **QA Engineer focused on Software Testing, Test Automation, API Testing, and Software Quality Assurance**.
 
- Frontend Developer
+I enjoy analyzing requirements, creating test scenarios, finding defects, validating APIs and databases, and developing automated test suites to improve application quality.
 
- Passionate about Programming & Web Development
+* 🧪 Manual & Automation Testing
+* 🤖 Selenium WebDriver Automation
+* 🔗 REST API Testing with Postman
+* 🐍 Python & PyTest
+* 🗄️ SQL & Database Testing
+* ⚡ Performance Testing with JMeter
+* 🐞 Bug Tracking & Defect Management
+* 🔄 Git & CI/CD
+* 🌐 Web Application Testing
+* 📚 Continuous Learning
 
- Currently Learning
-- C#
-- ASP.NET
-- JavaScript
-- Python
-- Full Stack Development
+### 🎯 Career Objective
 
-Goal
-> Become a Software Engineer and build amazing projects.
+> **To grow as a QA Automation Engineer and contribute to building reliable, scalable, secure, and high-quality software.**
 
 ---
 
-#  Connect With Me
-<p align="left">
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/sagar10-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sagar-ghimire-773842376?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/sagar-ghimire-773842376">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:sagarghimiresg6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-#  Programming Languages
+# 💻 Coding & Developer Platforms
 
-| Language | Icon | Language | Icon |
-|----------|------|----------|------|
-| C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> | C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |
-| C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/> | Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> |
-| HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> | CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/> |
-| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> | Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> |
+<div align="center">
 
----
+<a href="https://github.com/sagar10-web">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
 
-#  Tools & Technologies
+<a href="https://leetcode.com/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
+</a>
 
-| Category | Technologies |
-|------------|----------------|
-| IDE | Visual Studio • VS Code |
-| Version Control | Git • GitHub |
-| Database | MySQL |
-| Backend | PHP • Django |
-| Frontend | HTML • CSS • JavaScript |
-| Design | Figma • Canva |
+<a href="https://www.hackerrank.com/">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="50"/>
+</a>
 
----
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="50"/>
+</a>
 
-# 🚀 Featured Projects
+<a href="https://stackoverflow.com/">
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50"/>
+</a>
 
-| Project | Description |
-|---------|-------------|
-| 🔄 Converter Tool | Unit & Utility Converter |
-| 🌐 Portfolio Website | Personal Portfolio |
-| 🏦 Banking System | Python Banking System |
-| 📚 Web Technology | College Projects |
-| 🔐 Information Security | Cryptography Programs |
+<a href="https://www.kaggle.com/">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50"/>
+</a>
+
+</div>
 
 ---
 
+# 🧪 QA Engineering Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=selenium,python,postman,pytest,mysql,postgresql,jira,jenkins,docker,git,github,playwright" />
 
-
-
-
-
-#  Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,php,mysql,git,github,vscode,visualstudio"/>
-
-</p>
+</div>
 
 ---
 
-#  Quote
+# 🔍 Software Testing
 
-> **"Code. Learn. Build. Repeat."**
+### Manual Testing
+
+* Test Planning
+* Requirement Analysis
+* Test Scenario Design
+* Test Case Design
+* Test Execution
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
+* Integration Testing
+* System Testing
+* Exploratory Testing
+* UI Testing
+* Compatibility Testing
+
+### 🐞 Defect Management
+
+* Bug Identification
+* Bug Reporting
+* Severity & Priority
+* Defect Life Cycle
+* Root Cause Analysis
+* Regression Verification
+* Test Documentation
+
+---
+
+# 🤖 Test Automation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=selenium,python,pytest,playwright,cypress" />
+
+</div>
+
+### Automation Skills
+
+* Selenium WebDriver
+* Web Element Locators
+* XPath
+* CSS Selectors
+* Page Object Model
+* Explicit & Implicit Waits
+* Assertions
+* Test Fixtures
+* Parameterized Testing
+* Data-Driven Testing
+* Screenshot Capture
+* Automated Reports
+* Cross-Browser Testing
+
+---
+
+# 🔗 API Testing
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="60"/>
+<img src="https://cdn.simpleicons.org/json/000000" width="60"/>
+
+</div>
+
+* REST API Testing
+* HTTP Methods
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+* Status Code Validation
+* Request & Response Validation
+* Headers
+* Authentication
+* JSON
+* Environment Variables
+* API Collections
+* API Test Scripts
+* Negative Testing
+
+---
+
+# ⚡ Performance Testing
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="65"/>
+
+</div>
+
+* Load Testing
+* Stress Testing
+* Performance Testing
+* Concurrent User Testing
+* Response Time Analysis
+* Basic JMeter Test Plans
+
+---
+
+# 🗄️ Database Testing
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</div>
+
+* SQL Queries
+* CRUD Operations
+* Data Validation
+* Database Verification
+* Joins
+* Subqueries
+* Data Integrity
+* Backend Data Validation
+
+---
+
+# 🐞 Bug Tracking & Test Management
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="60"/>
+<img src="https://cdn.simpleicons.org/testrail/65C179" width="60"/>
+
+</div>
+
+* Jira
+* Test Case Management
+* Bug Tracking
+* Defect Reporting
+* Severity & Priority
+* Test Execution
+* Test Reports
+* Requirement Traceability
+
+---
+
+# 🔄 CI/CD & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,githubactions" />
+
+</div>
+
+* Git
+* GitHub
+* GitHub Actions
+* Jenkins
+* Docker
+* Continuous Integration
+* Continuous Testing
+* Automated Test Execution
+
+---
+
+# 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,php" />
+
+</div>
+
+---
+
+# 🌐 Web Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,django,dotnet" />
+
+</div>
+
+---
+
+# 🛠️ Complete Technology Stack
+
+| Category           | Technologies                                       |
+| ------------------ | -------------------------------------------------- |
+| 🧪 Manual Testing  | Functional, Regression, Smoke, Sanity, Integration |
+| 🤖 Automation      | Selenium, Playwright, Cypress                      |
+| 🐍 Test Frameworks | PyTest                                             |
+| 🔗 API Testing     | Postman, REST API, JSON                            |
+| ⚡ Performance      | Apache JMeter                                      |
+| 🗄️ Database       | MySQL, PostgreSQL, SQL                             |
+| 🐞 Bug Tracking    | Jira                                               |
+| 📋 Test Management | TestRail                                           |
+| 🔄 CI/CD           | Jenkins, GitHub Actions                            |
+| 📦 Containers      | Docker                                             |
+| 🌿 Version Control | Git, GitHub                                        |
+| 💻 Programming     | Python, C, C++, C#, JavaScript, PHP                |
+| 🌐 Web             | HTML, CSS, JavaScript, Django, ASP.NET             |
+| 🖥️ IDE            | VS Code, Visual Studio                             |
+
+---
+
+# 🚀 Featured QA Projects
+
+| Project                          | Description                                     | Technology        |
+| -------------------------------- | ----------------------------------------------- | ----------------- |
+| 🧪 **Postman API Testing**       | REST API testing, validation & negative testing | Postman           |
+| 🤖 **Selenium Automation**       | Automated web application testing               | Selenium + Python |
+| 🧩 **PyTest Framework**          | Structured automated test framework             | Python + PyTest   |
+| ⚡ **JMeter Performance Testing** | Load & performance testing                      | Apache JMeter     |
+| 🗄️ **Database Testing**         | SQL queries and backend validation              | MySQL             |
+| 🐞 **Bug Tracking Practice**     | Defect reporting and management                 | Jira              |
+| 🌐 **Web Application Testing**   | Functional & regression testing                 | Selenium          |
+| 🔄 **CI/CD Testing**             | Automated tests through pipelines               | GitHub Actions    |
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+### 🚀 QA AUTOMATION ROADMAP
+
+**Manual Testing**
+
+⬇
+
+**API Testing**
+
+⬇
+
+**SQL & Database Testing**
+
+⬇
+
+**Selenium + Python**
+
+⬇
+
+**PyTest**
+
+⬇
+
+**Playwright**
+
+⬇
+
+**JMeter**
+
+⬇
+
+**Jenkins + GitHub Actions**
+
+⬇
+
+**Docker & CI/CD**
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagar10-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar10-web&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar10-web&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sagar10-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### 🧪 Software Quality • Test Automation • API Testing • Selenium • Python
+
+I'm always interested in learning, collaborating, testing new technologies, and building better software.
+
+<br>
+
+<a href="https://github.com/sagar10-web">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sagar-ghimire-773842376">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
+### 🧪 Find Bugs. Automate Tests. Improve Quality.
+
 ### ⭐ Thanks for visiting my profile!
 
-If you like my projects, don't forget to ⭐ them.
+**Code • Test • Automate • Improve**
 
 </div>
+
 
