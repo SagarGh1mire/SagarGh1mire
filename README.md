@@ -39,7 +39,6 @@ I'm a **QA Engineer** passionate about software quality, automation, API testing
 
 <img src="https://cdn.simpleicons.org/selenium/43B02A" width="50"/>
 <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="50"/>
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="50"/>
 <img src="https://cdn.simpleicons.org/cypress/17202C" width="50"/>
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50"/>
 <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="50"/>
