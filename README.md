@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Sagar Ghimire
+#  Hi, I'm Sagar Ghimire
 
-### 🧪 QA Engineer | Software Tester | Test Automation Engineer
+###  QA Engineer | Software Tester | Test Automation Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Manual+%26+Automation+Testing;Selenium+WebDriver;API+Testing+with+Postman;Python+%26+PyTest;SQL+%26+Database+Testing;Performance+Testing+with+JMeter"/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **QA Engineer** passionate about software quality, automation, API testing, and building reliable software.
 
