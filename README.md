@@ -27,15 +27,15 @@ I'm a **QA Engineer** passionate about software quality, automation, API testing
 * 🐞 Jira & Defect Management
 * 🔄 Git & CI/CD
 
-🎯 **Goal:** Grow into a professional **QA Automation Engineer** and contribute to delivering reliable, scalable, and high-quality software.
+ **Goal:** Grow into a professional **QA Automation Engineer** and contribute to delivering reliable, scalable, and high-quality software.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 🧪 Testing & Automation
+###  Testing & Automation
 
 <img src="https://cdn.simpleicons.org/selenium/43B02A" width="50"/>
 <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="50"/>
@@ -46,7 +46,7 @@ I'm a **QA Engineer** passionate about software quality, automation, API testing
 
 <br><br>
 
-### 💻 Languages & Web
+###  Languages & Web
 
 <img src="https://cdn.simpleicons.org/python/3776AB" width="50"/>
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="50"/>
@@ -57,7 +57,7 @@ I'm a **QA Engineer** passionate about software quality, automation, API testing
 
 <br><br>
 
-### 🗄️ Database & DevOps
+###  Database & DevOps
 
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50"/>
@@ -70,7 +70,7 @@ I'm a **QA Engineer** passionate about software quality, automation, API testing
 
 ---
 
-## 🚀 QA Projects
+##  QA Projects
 
 | Project               | Tools             |
 | --------------------- | ----------------- |
